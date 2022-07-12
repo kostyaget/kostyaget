@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-![first img](./first_img.png)
+![](https://github.com/kostyaget/kostyaget/blob/main/all/C8uv.gif)
 
 <!-- HEADER -->
 
