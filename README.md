@@ -22,31 +22,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-### My project:
-
-<a href="https://github.com/kostyaget/goit-markup-hw-08">
-<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kostyaget&repo=goit-markup-hw-08&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-### Team project:
-
-<a href="https://github.com/kravamax/filmoteka">
-<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kravamax&repo=filmoteka&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/Solomon-IT-Dev/goit-team-project">
-<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Solomon-IT-Dev&repo=goit-team-project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-### Stats:
-
-<a href="https://github.com/kostyaget">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kostyaget&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<a href="https://github.com/kostyaget">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kostyaget&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
-</a>
-
 ### Often use:
 
 ![vscode](https://camo.githubusercontent.com/a0484e6383e852e622da1e934b7724921ab9b69d69246d90f899424b01f6deb1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)
@@ -71,3 +46,28 @@
 ##
 
 <!-- FOLLOW ME -->
+
+### My project:
+
+<a href="https://github.com/kostyaget/goit-markup-hw-08">
+<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kostyaget&repo=goit-markup-hw-08&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+### Team project:
+
+<a href="https://github.com/kravamax/filmoteka">
+<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kravamax&repo=filmoteka&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Solomon-IT-Dev/goit-team-project">
+<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Solomon-IT-Dev&repo=goit-team-project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+### Stats:
+
+<a href="https://github.com/kostyaget">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kostyaget&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/kostyaget">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kostyaget&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
+</a>
