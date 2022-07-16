@@ -4,7 +4,7 @@
 
 # Hi I'm Kostya
 
-## I'm a Junior Full - Stack developer in future.
+## I'm a Junior Full - Stack developer.
 
 ## My favorite quote: Works? Don't touch;
 
