@@ -6,11 +6,9 @@
 
 ## I'm a Junior Full - Stack developer in future.
 
-[![Typing
-SVG](https://readme-typing-svg.herokuapp.com?color=7A00F7&lines=+I+focus+on+HTML5%2C+CSS3%2C+JS%2C+React)](https://git.io/typing-svg)
+## My favorite quote: Works? Don't touch;
 
 <!-- HEADER -->
-
 <!-- ABOUT ME  -->
 
 ### Knows about:
@@ -24,7 +22,30 @@ SVG](https://readme-typing-svg.herokuapp.com?color=7A00F7&lines=+I+focus+on+HTML
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-#
+### My project:
+
+<a href="https://github.com/kostyaget/goit-markup-hw-08">
+<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kostyaget&repo=goit-markup-hw-08&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+### Team project:
+
+<a href="https://github.com/kravamax/filmoteka">
+<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kravamax&repo=filmoteka&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Solomon-IT-Dev/goit-team-project">
+<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Solomon-IT-Dev&repo=goit-team-project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+### Stats:
+
+<a href="https://github.com/kostyaget">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kostyaget&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/kostyaget">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kostyaget&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
+</a>
 
 ### Often use:
 
