@@ -49,6 +49,10 @@
 
 ### My project:
 
+<a href="https://github.com/kostyaget/goit-js-hw-11">
+<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kostyaget&repo=goit-js-hw-11&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 <a href="https://github.com/kostyaget/goit-react-hw-05-movies">
 <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kostyaget&repo=goit-react-hw-05-movies&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
