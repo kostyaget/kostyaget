@@ -65,6 +65,14 @@
 
 ### Team project:
 
+<a href="https://github.com/kostyaget/books-reader_front">
+<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kostyaget&repo=books-reader_front&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/kostyaget/books-reader_back">
+<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kostyaget&repo=books-reader_back&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 <a href="https://github.com/kravamax/filmoteka">
 <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kravamax&repo=filmoteka&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
