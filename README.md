@@ -2,9 +2,9 @@
 
 ![](https://github.com/kostyaget/kostyaget/blob/main/all/C8uv.gif)
 
-# Hi I'm Kostya
+# Hi I'm Kostya Getalo
 
-## I'm Full - Stack developer.
+## I'm Junior Full - Stack developer.
 
 <!-- HEADER -->
 <!-- ABOUT ME  -->
