@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-![](https://github.com/kostyaget/kostyaget/blob/main/all/C8uv.gif)
+<!-- ![](https://github.com/kostyaget/kostyaget/blob/main/all/C8uv.gif) -->
 
 # Hi I'm Kostya Getalo
 
